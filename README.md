@@ -1,4 +1,2 @@
 # Python examples
-Code examples in Python
-
-I will just keep adding things to this whenever I want to
+A growing collection of Python code examples—I'll keep expanding it over time.
